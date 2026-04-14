@@ -1,0 +1,11 @@
+.hero {
+  padding: 80px;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+.post {
+  border: 1px solid #ddd;
+  margin: 20px;
+  padding: 20px;
+}

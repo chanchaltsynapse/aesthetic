@@ -32,5 +32,115 @@
         "description": "Personalized comfort and recovery coordination"
       }
     ]
+  },
+  "process_section": {
+    "title": "OUR PROCESS",
+    "steps": [
+      {
+        "description": "Personalized care planning tailored to your procedure and recovery needs."
+      },
+      {
+        "description": "Dedicated RN assistance from surgical center pickup through recovery."
+      },
+      {
+        "description": "Ongoing private nurse support and coordination as needed."
+      }
+    ]
+  },
+  "packages_section": {
+    "title": "OUR RECOVERY PACKAGES",
+    "packages": [
+      {
+        "name": "Base Recovery Support",
+        "hours": "6 Hours | Private RN Care",
+        "description": "View Full package",
+        "button_text": "View Full package",
+        "button_link": "#"
+      },
+      {
+        "name": "Surgical Day Recovery",
+        "hours": "8 Hours | Extended Private RN Care",
+        "description": "8 Hours | Extended Private RN Care",
+        "button_text": "View Full package",
+        "button_link": "#"
+      },
+      {
+        "name": "Signature Recovery",
+        "hours": "8 Hours | Premium Extended RN Care",
+        "description": "8 Hours | Premium Extended RN Care",
+        "button_text": "View Full package",
+        "button_link": "#"
+      },
+      {
+        "name": "Overnight Recovery Support",
+        "hours": "Private RN monitoring and care through the night for added safety and comfort.",
+        "description": "Private RN monitoring and care through the night for added safety and comfort.",
+        "button_text": "View Full package",
+        "button_link": "#"
+      },
+      {
+        "name": "Platinum 24-Hour Recovery",
+        "hours": "Continuous Private RN Care",
+        "description": "Continuous Private RN Care",
+        "button_text": "View Full package",
+        "button_link": "#"
+      },
+      {
+        "button_link": "#",
+        "button_text": "View Full package",
+        "name": "Extended Luxury Recovery",
+        "hours": "48–72 Hours | Custom Care",
+        "description": "48–72 Hours | Custom Care"
+      }
+    ]
+  },
+  "featured_section": {
+    "image": "/uploads/images/rectangle-7.png",
+    "title": "Why Choose Us",
+    "description": "Why Choose Us"
+  },
+  "why_choose": {
+    "title": "Why Choose Us",
+    "points": [
+      {
+        "title": "RN-Led Care",
+        "icon": "/uploads/images/vector-1-.png"
+      },
+      {
+        "icon": "/uploads/images/vector-2-.png",
+        "title": "Private & Discreet  "
+      },
+      {
+        "icon": "/uploads/images/vector-3-.png",
+        "title": "Tailored to Your Procedure"
+      },
+      {
+        "icon": "/uploads/images/vector-4-.png",
+        "title": "Luxury-Level Comfort"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "CLIENT TESTIMONIALS",
+    "reviews": [
+      {
+        "quote": "“From the moment I was discharged, I felt completely safe and cared for. Having a private RN by my side gave me absolute peace of mind. This is recovery redefined.”",
+        "name": "Client, Miami"
+      },
+      {
+        "quote": "“The level of attention and professionalism was beyond anything I expected. Every detail was handled seamlessly — medications, monitoring, comfort, and communication with my surgeon.”",
+        "name": "Post-Operative Client"
+      },
+      {
+        "quote": "“Aesthetic Aftercare felt like hospital-level care with five-star hospitality. Calm, discreet, and incredibly reassuring during a vulnerable time.”",
+        "name": "Private Recovery Client"
+      }
+    ]
+  },
+  "cta_section": {
+    "background_image": "/uploads/images/group-55.png",
+    "title": "Aesthetic Aftercare Because recovery should feel beautiful.",
+    "button_text": "Begin Your Recovery Planning",
+    "button_link": "#"
   }
 }

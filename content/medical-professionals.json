@@ -1,0 +1,137 @@
+{
+  "intro": {
+    "top_image": "/uploads/images/rectangle-36.png",
+    "bottom_image": "/uploads/images/rectangle-37.png",
+    "title": "Surgeons & Medical Professionals",
+    "description": "Aesthetic Aftercare is an RN-led post-operative nursing and recovery support service based in Los Angeles. We provide private, one-on-one nursing support for patients following cosmetic and aesthetic procedures, strictly in accordance with the operating surgeon’s written post-operative instructions.\n \nOur goal is to support safe recovery, reduce unnecessary ER visits, and provide continuity of care in a private setting.\n"
+  },
+  "hero": {
+    "background_image": "/uploads/images/rectangle-2-3-.png",
+    "heading": "RN Aftercare for Cosmetic & Aesthetic Surgery",
+    "subheading": "Supporting safe recovery, reducing unnecessary ER visits"
+  },
+  "who_we_are": {
+    "title": "Who we are",
+    "items": [
+      {
+        "text": "Licensed, experienced Registered Nurses",
+        "icon": "/uploads/images/layer_1.png"
+      },
+      {
+        "text": "Insured and operating within RN scope of practice",
+        "icon": "/uploads/images/outline.png"
+      },
+      {
+        "icon": "/uploads/images/layer_1-1-.png",
+        "text": "Independent post-operative support service"
+      },
+      {
+        "icon": "/uploads/images/capa_1-1-.png",
+        "text": "Serving Los Angeles and surrounding areas"
+      }
+    ]
+  },
+  "what_we_do": {
+    "title": "What We Do",
+    "services": [
+      {
+        "text": "RN-coordinated transport from surgical center to home, hotel, or recovery location"
+      },
+      {
+        "text": "Post-operative monitoring and vital signs checks"
+      },
+      {
+        "text": "Medication reminders and organization per surgeon orders"
+      },
+      {
+        "text": "Drain, incision, and dressing observation per written instructions"
+      },
+      {
+        "text": "Mobility, positioning, and comfort support"
+      },
+      {
+        "text": "Caregiver education and recovery handoff"
+      },
+      {
+        "text": "Direct communication with surgical offices as indicated"
+      }
+    ],
+    "images": [
+      {
+        "image": "/uploads/images/rectangle-43.png"
+      },
+      {
+        "image": "/uploads/images/rectangle-42.png"
+      },
+      {
+        "image": "/uploads/images/rectangle-39.png"
+      },
+      {
+        "image": "/uploads/images/rectangle-38.png"
+      }
+    ]
+  },
+  "what_we_do_not_do": {
+    "image": "/uploads/images/rectangle-7-1-.png",
+    "title": "What We Do Not do",
+    "points": [
+      {
+        "text": "We do not diagnose medical conditions"
+      },
+      {
+        "text": "We do not prescribe medications"
+      },
+      {
+        "text": "We do not alter surgeon orders"
+      },
+      {
+        "text": "We do not replace post-operative follow-up care"
+      },
+      {
+        "text": "We do not provide medical decision-making"
+      },
+      {
+        "text": "All care is supportive and follows the surgeon’s post-operative plan"
+      }
+    ]
+  },
+  "care_model": {
+    "title": "Care Model",
+    "description": "Patients engage Aesthetic Aftercare independently. Services are scheduled following a consultation and confirmation of post-operative instructions. Nursing care is provided in private homes, hotels, or recovery accommodations.\nFor medical concerns outside nursing scope, patients are directed to contact their surgeon or emergency services immediately.",
+    "image": "/uploads/images/rectangle-26.png"
+  },
+  "licensing": {
+    "title": "Licensing & Compliance",
+    "points": [
+      {
+        "text": "All care provided by licensed Registered Nurses"
+      },
+      {
+        "text": "Services remain within RN scope of practice"
+      },
+      {
+        "text": "Medical consents and documentation managed through HIPAA-conscious workflows"
+      },
+      {
+        "text": "Professional liability insurance maintain"
+      }
+    ],
+    "image": "/uploads/images/rectangle-27-1-.png"
+  },
+  "consultation": {
+    "title": "Contact & Coordination",
+    "subtitle": "For coordination, questions, or patient inquiries, please contact:",
+    "form_fields": [
+      {
+        "label": "Email",
+        "type": "Email",
+        "name": "Email"
+      },
+      {
+        "label": "Location",
+        "name": "Los Angeles, CA",
+        "type": "Text"
+      }
+    ]
+  }
+}

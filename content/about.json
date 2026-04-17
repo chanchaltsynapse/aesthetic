@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "heading": "Dedicated to Safe, Supportive Recovery",
+    "subheading": "Committed to providing private, one-on-one recovery support with professionalism, discretion, and clinical integrity.",
+    "background_image": "/uploads/images/rectangle-2-1-.png"
+  },
+  "elevated_recovery": {
+    "title": "Elevated Recovery, Thoughtfully Delivered",
+    "description": "Aesthetic Aftercare is a Los Angeles based, RN led post operative recovery service designed specifically for aesthetic and plastic surgery patients.\n\nWe provide private, one on one nursing support in the comfort of your home or hotel, always in accordance with your surgeon’s written post operative instructions.\nOur role is simple:\nTo support recovery with clinical attentiveness and discretion.",
+    "highlight_text": "We proudly serve Los Angeles, Beverly Hills, and surrounding Southern California areas, bringing refined, private nursing care wherever recovery takes place.",
+    "image": "/uploads/images/group-58.png"
+  },
+  "what_we_do": {
+    "title": "What We Do",
+    "subtitle": "We bridge the space between surgical discharge and true recovery.\n\nFrom RN coordinated pickup to overnight monitoring, our care is delivered with precision, privacy, and quiet attention to detail.",
+    "services": [
+      {
+        "icon": "/uploads/images/vector-1-.png",
+        "title": "Provided by licensed Registered Nurses"
+      },
+      {
+        "icon": "/uploads/images/group.png",
+        "title": "Delivered strictly within RN scope of practice"
+      },
+      {
+        "icon": "/uploads/images/vector-3-.png",
+        "title": "Based entirely on surgeon directed instructions"
+      },
+      {
+        "icon": "/uploads/images/capa_1.png",
+        "title": "Designed for private home or hotel recovery"
+      }
+    ]
+  },
+  "founders": {
+    "title": "Our Founders",
+    "left": {
+      "description": "Aesthetic Aftercare was created to provide private, RN led recovery support delivered with discretion, intention, and quiet attention to detail.\n\nBecause refinement should not end in the operating room.",
+      "image": "/uploads/images/rectangle-47.png"
+    },
+    "right": {
+      "description": "Diana and Kristina met in nursing school and later worked together in the Emergency Department, where precision and composure were part of everyday care.\nThrough years of clinical experience, they came to understand how critical the recovery period is, especially in aesthetic and plastic surgery.",
+      "image": "/uploads/images/rectangle-48.png"
+    }
+  },
+  "our_standard": {
+    "title": "Our Standard",
+    "image": "/uploads/images/rectangle-27.png",
+    "standards": [
+      {
+        "text": "Recovery should feel calm"
+      },
+      {
+        "text": "Considered"
+      },
+      {
+        "text": "Supported"
+      },
+      {
+        "text": "In a city where aesthetic excellence is expected, recovery should reflect the same standard."
+      }
+    ]
+  },
+  "consultation": {
+    "title": "Begin Your Personalized Recovery Consultation",
+    "subtitle": "Share a few details and our Registered Nursing team will thoughtfully review your needs and coordinate a private consultation designed around your safety, comfort, and recovery goals.",
+    "button_text": "(Kindly avoid sharing sensitive medical details here. Full health information will be collected securely after consultation confirmation.)",
+    "form_fields": [
+      {
+        "label": "Name",
+        "name": "enter your full name",
+        "type": "enter your full name"
+      }
+    ]
+  }
+}

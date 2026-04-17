@@ -39,6 +39,53 @@
       }
     ]
   },
+  "contact_form": {
+    "title": "Begin Your Personalized Recovery Consultation",
+    "subtitle": "Share a few details and our Registered Nursing team will thoughtfully review your needs and coordinate a private consultation designed around your safety, comfort, and recovery goals.",
+    "button_text": "(Kindly avoid sharing sensitive medical details here. Full health information will be collected securely after consultation confirmation.)",
+    "form_fields": [
+      {
+        "label": "Name",
+        "name": "Name",
+        "type": "Text"
+      },
+      {
+        "label": "Phone",
+        "name": "Phone",
+        "type": "Text"
+      },
+      {
+        "label": "Email",
+        "name": "Email",
+        "type": "Email"
+      },
+      {
+        "label": "Surgery Date",
+        "name": "Surgery Date",
+        "type": "Text"
+      },
+      {
+        "label": "Recovery Location",
+        "name": "Recovery Location",
+        "type": "Select"
+      },
+      {
+        "label": "Preferred Package",
+        "name": "Preferred Package",
+        "type": "Select"
+      },
+      {
+        "label": "How did you hear about us?",
+        "name": "How did you hear about us?",
+        "type": "Text"
+      },
+      {
+        "label": "Message",
+        "name": "Message",
+        "type": "Text"
+      }
+    ]
+  },
   "who_we_are": {
     "title": "Who we are",
     "items": [

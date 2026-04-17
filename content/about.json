@@ -68,8 +68,43 @@
     "form_fields": [
       {
         "label": "Name",
-        "name": "enter your full name",
-        "type": "enter your full name"
+        "name": "John",
+        "type": "Text"
+      },
+      {
+        "label": "Phone",
+        "type": "Text",
+        "name": "Phone"
+      },
+      {
+        "label": "Email",
+        "name": "Email",
+        "type": "Email"
+      },
+      {
+        "label": "Surgery Date",
+        "name": "Surgery Date",
+        "type": "Text"
+      },
+      {
+        "label": "Recovery Location",
+        "name": "Recovery Location",
+        "type": "Select"
+      },
+      {
+        "label": "Preferred Package",
+        "name": "Preferred Package",
+        "type": "Select"
+      },
+      {
+        "label": "How did you hear about us?",
+        "name": "How did you hear about us?",
+        "type": "Text"
+      },
+      {
+        "type": "Text",
+        "label": "Message",
+        "name": "Message"
       }
     ]
   }

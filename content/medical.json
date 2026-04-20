@@ -1,0 +1,40 @@
+{
+  "intro": {
+    "heading": "Surgeons & Medical Professionals",
+    "paragraphs": [
+      "Aesthetic Aftercare is an RN-led post-operative nursing and recovery support service based in Los Angeles. We provide private, one-on-one nursing support for patients following cosmetic and aesthetic procedures, strictly in accordance with the operating surgeon’s written post-operative instructions.",
+      "Our goal is to support safe recovery, reduce unnecessary ER visits, and provide continuity of care in a private setting."
+    ]
+  },
+  "who_we_are": {
+    "title": "Who We Are",
+    "items": [
+      {
+        "title": "Licensed, Experienced Registered Nurses",
+        "description": "Highly trained RNs with expertise in post-operative care."
+      },
+      {
+        "title": "Insured and Operating Within RN Scope of Practice",
+        "description": "Fully insured and compliant with professional nursing standards."
+      },
+      {
+        "title": "Independent Post-Operative Support Service",
+        "description": "Focused care that aligns with your surgeon’s instructions."
+      }
+    ]
+  },
+  "what_we_do": {
+    "title": "Serving Los Angeles and Surrounding Areas",
+    "intro_text": "Available throughout LA and nearby communities.",
+    "services": [
+      "What We Do",
+      "We specialize in post-operative care tailored to patients recovering from cosmetic and aesthetic procedures. Our services ensure a safe, comfortable, and supported healing process.",
+      "One-on-one in-home nursing care",
+      "Post-surgical monitoring and support",
+      "Assistance with mobility and daily activities",
+      "Medication reminders (as prescribed)",
+      "Wound care support as directed by your surgeon",
+      "Coordination with your medical team"
+    ]
+  }
+}

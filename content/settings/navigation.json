@@ -1,0 +1,21 @@
+{
+  "logo": "aesthetic aftercare",
+  "menu": [
+    {
+      "label": "About",
+      "link": "/about"
+    },
+    {
+      "link": "/services",
+      "label": "services"
+    },
+    {
+      "link": "/medical-professionals",
+      "label": "Medical Professionals"
+    }
+  ],
+  "cta": {
+    "text": "Start an enquiry",
+    "link": "/enquiry"
+  }
+}

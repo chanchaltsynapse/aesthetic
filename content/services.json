@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "image": "/uploads/images/rectangle-2-4-.png",
+    "title": "Our Services",
+    "subtitle": "Thoughtfully structured post-operative nursing support"
+  },
+  "intro": {
+    "heading": "OUR RECOVERY PACKAGES",
+    "text": "Every recovery is different. Our private RN-led services are thoughtfully designed to support your surgeon’s post-operative plan with clinical precision, discretion, and elevated attentiveness.\nPrivate recovery investment begins at $950."
+  },
+  "featured": {
+    "title": "OUR RECOVERY PACKAGES",
+    "description": "Every recovery is different. Our private RN-led services are thoughtfully designed to support your surgeon’s post-operative plan with clinical precision, discretion, and elevated attentiveness.\nPrivate recovery investment begins at $950.",
+    "price_note": "All care is delivered by licensed Registered Nurses within RN scope of practice and strictly follows surgeon-directed instructions.",
+    "image": "/uploads/images/group-58-1-.png"
+  },
+  "services": [
+    {
+      "button_text": "View Full package",
+      "title": "Base Recovery Support",
+      "description": "Ideal for local patients who have arranged transportation and desire professional post-operative oversight during the initial recovery period.",
+      "link": "#",
+      "tag": "6 Hours"
+    },
+    {
+      "button_text": "View Full package",
+      "title": "Surgical Day Recovery",
+      "description": "Commonly selected for: tummy tuck (abdominoplasty), multi-area liposuction, breast lift, arm lift, chin/neck contouring.",
+      "tag": "8 Hours",
+      "link": "#"
+    },
+    {
+      "button_text": "View Full package",
+      "title": "Signature Recovery",
+      "description": "Elevated same-day recovery support with enhanced one-on-one RN oversight for patients desiring additional reassurance and clinical attentiveness.\n",
+      "tag": "8 Hours",
+      "link": "#"
+    },
+    {
+      "button_text": "View Full package",
+      "title": "Overnight Recovery Support",
+      "description": "Ideal for local patients who have arranged transportation and desire professional post-operative oversight during the initial recovery period.\n",
+      "tag": "10 Hours",
+      "link": "#"
+    },
+    {
+      "button_text": "View Full package",
+      "title": "Platinum 24-Hour Recovery",
+      "description": "Hospital-level attentiveness in the comfort of your private setting.",
+      "tag": "24 Hours",
+      "link": "#"
+    },
+    {
+      "button_text": "View Full package",
+      "title": "Extended Luxury Recovery",
+      "description": "Designed for high-acuity procedures or clients traveling without local support.",
+      "tag": "48–72 Hours",
+      "link": "#"
+    }
+  ],
+  "concierge": {
+    "title": "OPTIONAL CONCIERGE ADD-ONS",
+    "description": "Additional RN hours (4-hour minimum)\nOvernight RN extension\nSurgery-day RN escort transportation",
+    "button_text": "View Full package"
+  },
+  "notes": "Procedure examples are provided for general reference only. Individual recovery needs vary based on patient condition and surgeon protocol.\n All services are provided by licensed Registered Nurses within RN scope of practice. We do not diagnose, prescribe, or alter medical treatment plans.\n"
+}

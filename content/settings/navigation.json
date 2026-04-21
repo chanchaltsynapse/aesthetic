@@ -17,5 +17,7 @@
   "cta": {
     "text": "Start an enquiry",
     "link": "/enquiry"
-  }
+  },
+  "logo_link": "/home",
+  "logo_image": "/uploads/images/mask-group.png"
 }

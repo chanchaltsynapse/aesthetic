@@ -1,0 +1,26 @@
+location_title: Location
+location_description: Concierge Post-Operative Nursing Care, Los Angeles, CA
+contact_title: Contact
+email: info@aestheticaftercaree.com
+phones: 818-516-2799 | 818-649-0710
+logo_image: /uploads/images/mask-group.png
+brand_name: fdgfdd
+tagline: Book a Complimentary Consultation
+stay_connected: Stay Connected
+social_links:
+  - name: Instagram
+    url: "#"
+  - name: Twitter
+    url: "#"
+  - name: Linkedin
+    url: "#"
+cta_text: Book a Complimentary Consultation
+cta_link: "#"
+copyright: © 2026 Aesthetic Aftercare. All rights reserved.
+footer_links:
+  - label: Terms & Conditions
+    url: "#"
+  - label: Privacy Policy
+    url: "#"
+  - label: Accessibility Statement
+    url: "#"
